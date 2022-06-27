@@ -1,0 +1,10 @@
+Observer...
+
+Classes que ficam observando e são executadas qdo são chamadas.
+
+Exemplo:
+
+EnviarlEmailAposPedido
+SalvarPEdidoNoBancoDeDados
+
+Ele tem listener (um ouvinte)
